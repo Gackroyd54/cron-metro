@@ -1,0 +1,25 @@
+body{background-color: yellow;}
+h1{text-align: center;}
+#botões{margin-left:37.5%;
+margin-top: 50px;}
+button{padding-left:25px;
+padding-right:25px;
+padding-top:8px;
+padding-bottom:8px;
+border-radius: 15px;
+margin: 5px;
+cursor:pointer;}
+#inicio{background-color: rgb(39, 226, 39);}
+#Parar{background-color: red;}
+#zerar{background-color: saddlebrown;}
+#contador{margin-left:40%;
+margin-top: 40px;
+display:flex;
+}
+span{margin:10px;
+width:40px;
+height: 40px;
+background-color: white;
+text-align: center;
+padding:10px;
+font-size: 30px;}
