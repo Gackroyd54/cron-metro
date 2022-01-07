@@ -1,1 +1,2 @@
-# cron-metrofazendo um cronometro em HTML,CSS e Javascript
+# cronômetro
+Fazendo um cronometro em HTML,CSS e Javascript
